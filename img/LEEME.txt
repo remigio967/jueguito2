@@ -1,0 +1,6 @@
+Pon aquí las dos imágenes de la pantalla final, con estos nombres exactos:
+
+  congratulations.png   -> sale si el puntaje es de 450 a 500 (gana)
+  you-lose.png          -> sale si el puntaje es menor a 450 (pierde)
+
+Si falta alguna, el juego muestra un recuadro avisando cuál falta.
